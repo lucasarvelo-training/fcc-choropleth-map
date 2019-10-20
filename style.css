@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  color: black;
+  width: 1000px;
+  margin: auto;
+  background-color: white;
+  border-radius: 25px;
+}
+.container .title {
+  margin: auto;
+}
+.container .svg-container {
+  display: block;
+  margin: auto;
+  padding-top: 50px;
+}
