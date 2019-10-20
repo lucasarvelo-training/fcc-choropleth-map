@@ -1,6 +1,6 @@
-# Project Title
+# Visualize Data with a Choropleth Map
 
-Visualize Data with a Choropleth Map [Try it out!!!](https://lucasarvelo.github.io/fcc-choropleth-map/)
+[Try it out!!!](https://lucasarvelo.github.io/fcc-choropleth-map/)
 
 ## Built With
 
